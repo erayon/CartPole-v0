@@ -4,9 +4,9 @@ Keras is an open source neural network library written in Python. It is capable 
 
 # Prerequisites
 
-Python3.2 or higher (https://www.python.org/downloads/)
-keras (https://keras.io/)
-tensorflow (https://www.tensorflow.org/install/)
+1. Python3.2 or higher (https://www.python.org/downloads/)
+2. keras (https://keras.io/)
+3. tensorflow (https://www.tensorflow.org/install/)
 
 
 # Keras uses the following dependencies:
