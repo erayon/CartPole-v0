@@ -99,7 +99,7 @@ training_data = population(10000)
 
 
 X = np.array([i[0] for i in training_data])
-y = [i[1] for i in training_data]
+y = np.array([i[1] for i in training_data])
 
 
 model.compile(loss='binary_crossentropy', optimizer='adam', metrics=['accuracy'])
